@@ -1,0 +1,22 @@
+{
+  "name": "scratch-myextensions",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "./docker.sh",
+    "dev": "xdg-open http://localhost:8080 && http-server ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saggggo/scratch-myextentions.git"
+  },
+  "author": "Saggggo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saggggo/scratch-myextentions/issues"
+  },
+  "homepage": "https://github.com/saggggo/scratch-myextentions#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
