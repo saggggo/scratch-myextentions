@@ -1,9 +1,10 @@
 [submodule "scratch-blocks"]
 	path = scratch-blocks
 	url = git@github.com:saggggo/scratch-blocks.git
-[submodule "scratch-gui"]
-	path = scratch-gui
-	url = git@github.com:saggggo/scratch-gui.git
 [submodule "scratch-vm"]
 	path = scratch-vm
 	url = git@github.com:saggggo/scratch-vm.git
+[submodule "scratch-gui"]
+	path = scratch-gui
+	url = git@github.com:saggggo/scratch-gui.git
+	branch = develop
